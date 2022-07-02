@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ram Tyagi
 - 👀 I’m interested in Devlopment,photography and video.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning full stack web dev.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ramtyagi04@gmail.com
 
